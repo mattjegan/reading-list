@@ -29,6 +29,11 @@ This is a list of things that I need to read. If there is something you think I 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 
+#### Classics
+- [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
+- [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
+- [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
+
 ### Non-Fiction
 #### Papers
 ##### Computer Science
