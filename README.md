@@ -44,6 +44,9 @@ This is a list of things that I need to read. If there is something you think I 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 
+#### Romantic Comedy
+- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
+
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
 - [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
