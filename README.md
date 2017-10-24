@@ -30,3 +30,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 
 ### Non-Fiction
+#### Papers
+##### Computer Science
+- [ ] [Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
