@@ -4,6 +4,7 @@ This is a list of things that I need to read. If there is something you think I 
 ## The List
 ### Fiction
 #### Sci-Fi
+- [ ] [Alfred Bester - The Stars My Destination](https://www.e-reading.club/book.php?book=73504)
 - [ ] [Daniel Keyes - Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [Philip José Farmer - To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
 - [ ] [Edgar Pangborn - Davy](https://www.goodreads.com/book/show/920957.Davy)
