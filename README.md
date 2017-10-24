@@ -4,9 +4,9 @@ This is a list of things that I need to read. If there is something you think I 
 ## The List
 ### Fiction
 #### Sci-Fi
-- [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
-- [ ] [To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
-- [ ] [Davy](https://www.goodreads.com/book/show/920957.Davy)
+- [ ] [Daniel Keyes - Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
+- [ ] [Philip José Farmer - To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
+- [ ] [Edgar Pangborn - Davy](https://www.goodreads.com/book/show/920957.Davy)
 - [ ] [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 - [ ] [Larry Niven - The Mote in Gods Eye](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye)
 - [ ] [Larry Niven - Ringworld](https://www.goodreads.com/book/show/61179.Ringworld)
@@ -14,8 +14,8 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Brian W. Aldiss - Helliconia](https://www.goodreads.com/book/show/672244.Helliconia_Spring)
 - [ ] [Robert A. Heinlein - Orphans of the Sky](https://www.goodreads.com/book/show/50832.Orphans_of_the_Sky)
 - [ ] [Tom Godwin - Space Prisoners](https://www.goodreads.com/book/show/10537196-space-prisoners-the-survivors)
-- [ ] [Dune](http://www.dunenovels.com/)
-- [ ] [A Clockwork Orange](http://books.wwnorton.com/books/A-Clockwork-Orange/)
+- [ ] [Frank Herbert - Dune](http://www.dunenovels.com/)
+- [ ] [Anthony Burgess - A Clockwork Orange](http://books.wwnorton.com/books/A-Clockwork-Orange/)
 - [ ] [Phillip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - [ ] [Robert A. Heinlein - The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
 - [ ] [Samuel R. Delany - The Einstein Intersection](https://www.goodreads.com/book/show/145354.The_Einstein_Intersection)
@@ -26,8 +26,9 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 - [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-- [ ] [The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
-- [x] [The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
+- [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
+- [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
+- [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
