@@ -60,6 +60,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 ### Non-Fiction
 - [ ] [Dale Carnegie - How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+- [ ] [Dan Ariely - Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 #### Papers
 ##### Computer Science
 - [ ] [Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
