@@ -3,6 +3,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 ## The List
 ### Fiction
+- [ ] [Ernest Cline - Player Number One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
 #### Sci-Fi
 - [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
