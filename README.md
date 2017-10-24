@@ -30,6 +30,8 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
 - [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
+- [ ] [Stephen King - The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
+- [ ] [H.G. Wells - The War of the Worlds]()
 - [ ] [Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed)
 - [ ] [Ursula K. Le Guin - The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven)
 - [ ] [Ursula K. Le Guin - The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
@@ -51,12 +53,15 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Jay Hosking - Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 - [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
+- [ ] [Dennis Lehane - Shutter Island](https://www.goodreads.com/book/show/21686.Shutter_Island)
+- [ ] [Dan Brown - Decption Point](https://www.goodreads.com/book/show/976.Deception_Point)
 
 #### Fantasy
 - [ ] [Robin Hobb - Assassin's Apprentice](https://en.wikipedia.org/wiki/Assassin%27s_Apprentice)
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+- [ ] [Neil Gaiman - American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
@@ -65,6 +70,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
 - [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
+- [ ] [Marquis de Sade - The 120 days of Sodom](https://www.goodreads.com/book/show/6351885-the-120-days-of-sodom)
 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
@@ -75,6 +81,10 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dan Ariely - Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 - [ ] [Jon Ronson - So You've Been Publicly Shamed](https://www.goodreads.com/book/show/22571552-so-you-ve-been-publicly-shamed)
 - [ ] [Atul Gawande - The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
+- [x] [Yuval Noah Harari - Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
+
+### Poetry
+- [ ] [Harivansha Rai Bachchan - मधुशाला](https://www.goodreads.com/book/show/792429._)
 
 #### Papers
 ##### Computer Science
