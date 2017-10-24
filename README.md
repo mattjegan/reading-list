@@ -25,7 +25,9 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
-- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
+- [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+- [ ] [The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
+- [x] [The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
