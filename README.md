@@ -73,3 +73,6 @@ This is a list of things that I need to read. If there is something you think I 
 #### Papers
 ##### Computer Science
 - [ ] [Carlos Baquero, Paulo Sergio Almeida, Ali Shoker - Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
+
+##### Physics
+- [ ] [The Feynman Lectures on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics)
