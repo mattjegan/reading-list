@@ -55,6 +55,9 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
 
+#### Philosophy
+- [ ][Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
+
 ### Non-Fiction
 #### Papers
 ##### Computer Science
