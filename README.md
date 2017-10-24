@@ -56,7 +56,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
 
 #### Philosophy
-- [ ][Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
+- [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 
 ### Non-Fiction
 - [ ] [Dale Carnegie - How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
