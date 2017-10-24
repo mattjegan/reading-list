@@ -3,7 +3,6 @@ This is a list of things that I need to read. If there is something you think I 
 
 ## The List
 ### Fiction
-
 #### Sci-Fi
 - [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
