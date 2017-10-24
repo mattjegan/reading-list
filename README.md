@@ -29,7 +29,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
-- [ ] [Anthony Burgess - A Clockwork Orange](http://books.wwnorton.com/books/A-Clockwork-Orange/)
+- [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
