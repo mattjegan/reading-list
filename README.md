@@ -26,4 +26,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 
+#### Fantasy
+- [ ] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+
 ### Non-Fiction
