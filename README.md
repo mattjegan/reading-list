@@ -3,6 +3,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 ## The List
 ### Fiction
+
 #### Sci-Fi
 - [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
@@ -18,7 +19,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [A Clockwork Orange](http://books.wwnorton.com/books/A-Clockwork-Orange/)
 - [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - [ ] [The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
-- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
@@ -36,6 +36,9 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+
+#### Romantic Comedy
+- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
