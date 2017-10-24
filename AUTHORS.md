@@ -5,13 +5,13 @@
 This list is taken from the GitHub Insights > Contributors tab on October 23rd, 2017.
 
 - 2016adeshmukh
-- CraftyBIT
-- HimanshuAwasthi95
-- NicolasWalter
-- SeakJohnny
 - aljp
+- CraftyBIT
 - djphan
 - hayleytom
+- HimanshuAwasthi95
 - mattjegan
+- NicolasWalter
 - nicoluce
+- SeakJohnny
 - woshibiantai
