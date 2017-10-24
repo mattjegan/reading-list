@@ -27,6 +27,14 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 
+#### Mystery
+- [ ] [Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
+- [ ] [Let The Devil Out](https://www.goodreads.com/book/show/26114290-let-the-devil-out)
+- [ ] [Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
+- [ ] [Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
+- [ ] [Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
+- [ ] [And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
+
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 
