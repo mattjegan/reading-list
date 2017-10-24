@@ -34,4 +34,10 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
 - [ ] [And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
+#### Fantasy
+- [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+
 ### Non-Fiction
+#### Papers
+##### Computer Science
+- [ ] [Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
