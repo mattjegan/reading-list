@@ -45,6 +45,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Emma Flint - Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
 - [ ] [Jay Hosking - Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
+- [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
