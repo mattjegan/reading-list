@@ -40,7 +40,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dennis Lehane - Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
 - [ ] [Bill Loehfelm - Let The Devil Out](https://www.goodreads.com/book/show/26114290-let-the-devil-out)
 - [ ] [Peter Spiegelman - Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
-- [ ] [Emma FLINT - Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
+- [ ] [Emma Flint - Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
 - [ ] [Jay Hosking - Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
