@@ -37,18 +37,18 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 
 #### Mystery
-- [ ] [Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
-- [ ] [Let The Devil Out](https://www.goodreads.com/book/show/26114290-let-the-devil-out)
-- [ ] [Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
-- [ ] [Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
-- [ ] [Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
-- [ ] [And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
+- [ ] [Dennis Lehane - Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
+- [ ] [Bill Loehfelm - Let The Devil Out](https://www.goodreads.com/book/show/26114290-let-the-devil-out)
+- [ ] [Peter Spiegelman - Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
+- [ ] [Emma FLINT - Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
+- [ ] [Jay Hosking - Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
+- [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 
 #### Romantic Comedy
-- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
+- [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
