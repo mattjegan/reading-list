@@ -32,11 +32,16 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 - [ ] [Stephen King - The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
 - [ ] [H.G. Wells - The War of the Worlds]()
-      
+- [ ] [Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed)
+- [ ] [Ursula K. Le Guin - The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven)
+- [ ] [Ursula K. Le Guin - The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
+- [ ] [Joan D. Vinge - The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel))
+
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
 - [x] [George Orwell - Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
+- [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [ ] [Kazuo Ishiguro - Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
 
@@ -52,6 +57,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dan Brown - Decption Point](https://www.goodreads.com/book/show/976.Deception_Point)
 
 #### Fantasy
+- [ ] [Robin Hobb - Assassin's Apprentice](https://en.wikipedia.org/wiki/Assassin%27s_Apprentice)
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
