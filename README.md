@@ -49,6 +49,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Fantasy
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+- [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
