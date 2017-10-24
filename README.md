@@ -3,7 +3,6 @@ This is a list of things that I need to read. If there is something you think I 
 
 ## The List
 ### Fiction
-
 #### Sci-Fi
 - [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
@@ -18,7 +17,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dune](http://www.dunenovels.com/)
 - [ ] [A Clockwork Orange](http://books.wwnorton.com/books/A-Clockwork-Orange/)
 - [ ] [Phillip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-- [ ] [The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
+- [ ] [Robert A. Heinlein - The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
 - [ ] [Samuel R. Delany - The Einstein Intersection](https://www.goodreads.com/book/show/145354.The_Einstein_Intersection)
 - [ ] [Walter M. Miller Jr - A Canticle for Lebowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz)
 - [ ] [Brian W. Aldiss - The Dark Lightyears](https://www.goodreads.com/book/show/1351129.The_Dark_Light_Years)
@@ -26,6 +25,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
+- [ ] [Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
@@ -33,4 +33,23 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 
+#### Mystery
+- [ ] [Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
+- [ ] [Let The Devil Out](https://www.goodreads.com/book/show/26114290-let-the-devil-out)
+- [ ] [Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
+- [ ] [Little Deaths](https://www.goodreads.com/book/show/27845924-little-deaths)
+- [ ] [Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
+- [ ] [And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
+
+#### Fantasy
+- [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+
+#### Classics
+- [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
+- [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
+- [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
+
 ### Non-Fiction
+#### Papers
+##### Computer Science
+- [ ] [Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
