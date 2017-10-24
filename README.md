@@ -30,6 +30,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
 - [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
+- [ ] [Herbert Wells - The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
