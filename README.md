@@ -26,14 +26,14 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 - [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-- [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
+- [ ] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
 - [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
-- [x] [George Orwell - Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
+- [ ] [George Orwell - Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [ ] [Kazuo Ishiguro - Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
@@ -48,7 +48,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
 
 #### Fantasy
-- [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
+- [ ] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
 
