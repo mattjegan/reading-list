@@ -36,6 +36,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [George Orwell - Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
 - [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
+- [ ] [Kazuo Ishiguro - Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
 
 #### Mystery
 - [ ] [Dennis Lehane - Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
@@ -63,6 +64,8 @@ This is a list of things that I need to read. If there is something you think I 
 ### Non-Fiction
 - [ ] [Dale Carnegie - How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [ ] [Dan Ariely - Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
+- [ ] [Jon Ronson - So You've Been Publicly Shamed](https://www.goodreads.com/book/show/22571552-so-you-ve-been-publicly-shamed)
+- [ ] [Atul Gawande - The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
 
 #### Papers
 ##### Computer Science
