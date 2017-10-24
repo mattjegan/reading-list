@@ -7,7 +7,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
 - [ ] [Davy](https://www.goodreads.com/book/show/920957.Davy)
-- [ ] [[Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+- [ ] [Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 - [ ] [Larry Niven - The Mote in Gods Eye](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye)
 - [ ] [Larry Niven - Ringworld](https://www.goodreads.com/book/show/61179.Ringworld)
 - [ ] [Larry Niven - Inferno](https://www.goodreads.com/book/show/100369.Inferno)
