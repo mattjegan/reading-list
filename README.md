@@ -51,6 +51,10 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+- [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
+- [ ] [Ted Dekker - Black](https://www.goodreads.com/book/show/125956.Black)
+- [ ] [Kristin Cashore - Graceling](https://www.goodreads.com/book/show/3236307-graceling)
+- [ ] [Ransom Riggs - Miss Peregrine’s Home for Peculiar Children](https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
@@ -69,6 +73,9 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Dan Ariely - Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 - [ ] [Jon Ronson - So You've Been Publicly Shamed](https://www.goodreads.com/book/show/22571552-so-you-ve-been-publicly-shamed)
 - [ ] [Atul Gawande - The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
+
+### Web Serial
+- [ ] [Wildbow - Worm](https://parahumans.wordpress.com/)
 
 #### Papers
 ##### Computer Science
