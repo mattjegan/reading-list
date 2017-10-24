@@ -62,6 +62,10 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+- [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
+- [ ] [Ted Dekker - Black](https://www.goodreads.com/book/show/125956.Black)
+- [ ] [Kristin Cashore - Graceling](https://www.goodreads.com/book/show/3236307-graceling)
+- [ ] [Ransom Riggs - Miss Peregrine’s Home for Peculiar Children](https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children)
 - [ ] [Neil Gaiman - American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
 
 #### Romantic Comedy
@@ -86,6 +90,9 @@ This is a list of things that I need to read. If there is something you think I 
 
 ### Poetry
 - [ ] [Harivansha Rai Bachchan - मधुशाला](https://www.goodreads.com/book/show/792429._)
+
+### Web Serial
+- [ ] [Wildbow - Worm](https://parahumans.wordpress.com/)
 
 #### Papers
 ##### Computer Science
