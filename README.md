@@ -55,6 +55,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
 
 ### Non-Fiction
+- [ ] [Dale Carnegie - How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 #### Papers
 ##### Computer Science
 - [ ] [Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
