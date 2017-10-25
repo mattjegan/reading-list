@@ -10,6 +10,7 @@ This list is taken from the GitHub Insights > Contributors tab on October 23rd, 
 - djphan
 - hayleytom
 - HimanshuAwasthi95
+- HubbleJo
 - mattjegan
 - NicolasWalter
 - nicoluce
