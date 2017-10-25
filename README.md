@@ -68,6 +68,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Kristin Cashore - Graceling](https://www.goodreads.com/book/show/3236307-graceling)
 - [ ] [Ransom Riggs - Miss Peregrine’s Home for Peculiar Children](https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children)
 - [ ] [Neil Gaiman - American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
+- [ ] [Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
@@ -101,3 +102,4 @@ This is a list of things that I need to read. If there is something you think I 
 
 ##### Physics
 - [ ] [The Feynman Lectures on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics)
+- [ ] [A Brief History of Time](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics)
