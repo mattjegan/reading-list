@@ -68,6 +68,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Kristin Cashore - Graceling](https://www.goodreads.com/book/show/3236307-graceling)
 - [ ] [Ransom Riggs - Miss Peregrine’s Home for Peculiar Children](https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children)
 - [ ] [Neil Gaiman - American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
+- [ ] [Brandon Sanderson - Mistborn](https://www.goodreads.com/book/show/68428.The_Final_Empire)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
