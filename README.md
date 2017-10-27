@@ -46,6 +46,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [ ] [Kazuo Ishiguro - Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
+- [ ] [Ray Bradbury - Fahrenheit 451](https://www.goodreads.com/book/show/4381.Fahrenheit_451)
 
 #### Mystery
 - [ ] [Dennis Lehane - Since We Fell](https://www.goodreads.com/book/show/31751571-since-we-fell)
