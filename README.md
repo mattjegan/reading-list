@@ -108,6 +108,9 @@ This is a list of things that I need to read. If there is something you think I 
 ### Web Serial
 - [ ] [Wildbow - Worm](https://parahumans.wordpress.com/)
 
+### Biography
+- [ ] [Phil Knight - Shoe Dog: A Memoir by the Creator of NIKE](https://www.goodreads.com/book/show/27220736-shoe-dog)
+
 #### Papers
 ##### Computer Science
 - [ ] [Carlos Baquero, Paulo Sergio Almeida, Ali Shoker - Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
