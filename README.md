@@ -38,6 +38,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Ursula K. Le Guin - The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven)
 - [ ] [Ursula K. Le Guin - The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
 - [ ] [Joan D. Vinge - The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel))
+- [ ] [Douglas Adams - The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
@@ -80,6 +81,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
 - [ ] [Marquis de Sade - The 120 days of Sodom](https://www.goodreads.com/book/show/6351885-the-120-days-of-sodom)
 - [ ] [Eiji Yoshikawa - Miyamoto Musashi](https://www.goodreads.com/book/show/102030.Musashi)
+- [ ] [Harper Lee - To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
