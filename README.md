@@ -33,7 +33,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 - [ ] [Herbert Wells - The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man)
 - [ ] [Stephen King - The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
-- [ ] [H.G. Wells - The War of the Worlds]()
+- [x] [H.G. Wells - The War of the Worlds]()
 - [ ] [Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed)
 - [ ] [Ursula K. Le Guin - The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven)
 - [ ] [Ursula K. Le Guin - The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
@@ -58,7 +58,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 - [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
 - [ ] [Dennis Lehane - Shutter Island](https://www.goodreads.com/book/show/21686.Shutter_Island)
-- [ ] [Dan Brown - Decption Point](https://www.goodreads.com/book/show/976.Deception_Point)
+- [ ] [Dan Brown - Deception Point](https://www.goodreads.com/book/show/976.Deception_Point)
 
 #### Fantasy
 - [ ] [Robin Hobb - Assassin's Apprentice](https://en.wikipedia.org/wiki/Assassin%27s_Apprentice)
@@ -81,7 +81,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
 - [ ] [Marquis de Sade - The 120 days of Sodom](https://www.goodreads.com/book/show/6351885-the-120-days-of-sodom)
 - [ ] [Eiji Yoshikawa - Miyamoto Musashi](https://www.goodreads.com/book/show/102030.Musashi)
-- [ ] [Harper Lee - To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
+- [x] [Harper Lee - To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
