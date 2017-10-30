@@ -82,6 +82,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Marquis de Sade - The 120 days of Sodom](https://www.goodreads.com/book/show/6351885-the-120-days-of-sodom)
 - [ ] [Eiji Yoshikawa - Miyamoto Musashi](https://www.goodreads.com/book/show/102030.Musashi)
 - [x] [Harper Lee - To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
+- [ ] [Han Kang - The Vegeterian](https://www.goodreads.com/book/show/25489025-the-vegetarian)
 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
