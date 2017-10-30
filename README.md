@@ -65,6 +65,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+- [ ] [Patrick Rothfuss - The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear)
 - [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
 - [ ] [Ted Dekker - Black](https://www.goodreads.com/book/show/125956.Black)
 - [ ] [Kristin Cashore - Graceling](https://www.goodreads.com/book/show/3236307-graceling)
