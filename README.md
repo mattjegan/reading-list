@@ -1,4 +1,4 @@
-# My Reading List
+﻿# My Reading List
 This is a list of things that I need to read. If there is something you think I need to read, please make a PR into this list.
 
 ## The List
@@ -76,6 +76,9 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
+
+#### Romance
+- [ ] [Colleen Hoover - Ugly Love](https://novel12.com/254280/ugly-love.htm)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
