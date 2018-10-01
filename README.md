@@ -43,7 +43,7 @@ This is a list of things that I need to read. If there is something you think I 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
 - [x] [George Orwell - Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
-- [ ] [Margaret Atwood - Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
+- [ ] [Margaret Atwood - The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Aldous Huxley - Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [ ] [Kazuo Ishiguro - Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
@@ -58,13 +58,14 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 - [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
 - [ ] [Dennis Lehane - Shutter Island](https://www.goodreads.com/book/show/21686.Shutter_Island)
+- [ ] [Dennis Lehane - A Drink Before the War](https://www.goodreads.com/book/show/21685.A_Drink_Before_the_War)
 - [ ] [Dan Brown - Deception Point](https://www.goodreads.com/book/show/976.Deception_Point)
 
 #### Fantasy
 - [ ] [Robin Hobb - Assassin's Apprentice](https://en.wikipedia.org/wiki/Assassin%27s_Apprentice)
 - [x] [J.R.R. Tolkien - The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
-- [ ] [Patrick Rothfuss - The name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+- [ ] [Patrick Rothfuss - The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
 - [ ] [Patrick Rothfuss - The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear)
 - [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
 - [ ] [Ted Dekker - Black](https://www.goodreads.com/book/show/125956.Black)
@@ -73,9 +74,15 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Neil Gaiman - American Gods](https://www.goodreads.com/book/show/30165203-american-gods)
 - [ ] [Brandon Sanderson - Mistborn](https://www.goodreads.com/book/show/68428.The_Final_Empire)
 - [ ] [Sherrilyn Kenyon - Intensity](https://www.goodreads.com/book/show/22559726-intensity)
+- [ ] [Scott Lynch - The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
+
+#### Graphic Novels
+- [ ] [Art Spiegelman - Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus)
+- [ ] [Gail Simone, Cat Staggs - Crosswind](https://www.goodreads.com/book/show/35758540-crosswind-vol-1)
+- [ ] [John Allison - Giant Days](https://www.goodreads.com/book/show/25785993-giant-days-vol-1)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
