@@ -1,4 +1,4 @@
-# My Reading List
+﻿# My Reading List
 This is a list of things that I need to read. If there is something you think I need to read, please make a PR into this list.
 
 ## The List
@@ -83,6 +83,9 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Art Spiegelman - Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus)
 - [ ] [Gail Simone, Cat Staggs - Crosswind](https://www.goodreads.com/book/show/35758540-crosswind-vol-1)
 - [ ] [John Allison - Giant Days](https://www.goodreads.com/book/show/25785993-giant-days-vol-1)
+
+#### Romance
+- [ ] [Colleen Hoover - Ugly Love](https://novel12.com/254280/ugly-love.htm)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
