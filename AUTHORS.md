@@ -2,7 +2,7 @@
 
 ## GitHub Contributors
 
-This list is taken from GitHub's Insights > Contributors tab on October 1st 2017.
+This list is taken from GitHub's Insights > Contributors tab on October 1st 2018.
 
 - [2016adeshmukh](https://github.com/2016adeshmukh)
 - [aljp](https://github.com/aljp)
