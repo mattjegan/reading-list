@@ -30,7 +30,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
-- [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 - [ ] [Herbert Wells - The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man)
 - [ ] [Stephen King - The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
 - [x] [H.G. Wells - The War of the Worlds]()
@@ -87,6 +86,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Romance
 - [ ] [Colleen Hoover - Ugly Love](https://novel12.com/254280/ugly-love.htm)
+- [ ] [Melanie Moreland - My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
