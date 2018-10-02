@@ -40,6 +40,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Joan D. Vinge - The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel))
 - [ ] [Douglas Adams - The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
 - [ ] [Orson Scott Card - Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game)
+- [ ] [Robert A. Heinlein - Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
 
 #### Dystopian Fiction
 - [ ] [George Orwell - 1984](https://www.goodreads.com/book/show/5470.1984)
