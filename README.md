@@ -87,6 +87,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Romance
 - [ ] [Colleen Hoover - Ugly Love](https://novel12.com/254280/ugly-love.htm)
+- [ ] [John Green - The Fault in Our Stars](https://www.amazon.co.uk/Fault-Our-Stars-John-Green/dp/0141345659)
 
 #### Classics
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
