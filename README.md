@@ -26,7 +26,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
-- [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+- [ ] [Philip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
