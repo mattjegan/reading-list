@@ -126,6 +126,9 @@ This is a list of things that I need to read. If there is something you think I 
 ### Biography
 - [ ] [Phil Knight - Shoe Dog: A Memoir by the Creator of NIKE](https://www.goodreads.com/book/show/27220736-shoe-dog)
 
+### Historical
+- [] [Patrick O'Brian: Master and Commander](https://www.amazon.com/Master-Commander-Aubrey-Maturin-Novels-ebook/dp/B006C3Q6GG/ref=sr_1_2?ie=UTF8&qid=1538495676&sr=8-2&keywords=master+and+commander)
+
 #### Papers
 ##### Computer Science
 - [ ] [Carlos Baquero, Paulo Sergio Almeida, Ali Shoker - Pure Operation-Based Replicated Data Types](https://arxiv.org/pdf/1710.04469.pdf)
