@@ -102,6 +102,7 @@ This is a list of things that I need to read. If there is something you think I 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 - [ ] [Albert Camus - The Stranger](https://www.amazon.in/Stranger-ALBERT-CAMUS-Vintage-International/dp/0679720200)
+- [ ] [Joseph Murphy - The Power Of Your Subconcious Mind](https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962)
 
 ### Non-Fiction
 - [ ] [Dale Carnegie - How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
