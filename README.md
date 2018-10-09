@@ -24,7 +24,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Larry Niven - Ringworld](https://www.goodreads.com/book/show/61179.Ringworld)
 - [ ] [Larry Niven - The Mote in Gods Eye](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye)
 - [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
-- [ ] [My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 - [ ] [Orson Scott Card - Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game)
 - [ ] [Philip José Farmer - To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
 - [ ] [Phillip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
@@ -34,6 +33,17 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Robert A. Heinlein - Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
 - [ ] [Robert A. Heinlein - The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
 - [ ] [Samuel R. Delany - The Einstein Intersection](https://www.goodreads.com/book/show/145354.The_Einstein_Intersection)
+- [ ] [Walter M. Miller Jr - A Canticle for Lebowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz)
+- [ ] [Brian W. Aldiss - The Dark Lightyears](https://www.goodreads.com/book/show/1351129.The_Dark_Light_Years)
+- [ ] [Robert A. Heinlein - Glory Road](https://www.goodreads.com/book/show/50856.Glory_Road)
+- [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
+- [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
+- [ ] [Liu Cixin - The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
+- [ ] [Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+- [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
+- [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
+- [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
+- [ ] [Herbert Wells - The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man)
 - [ ] [Stephen King - The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
 - [ ] [Tom Godwin - Space Prisoners](https://www.goodreads.com/book/show/10537196-space-prisoners-the-survivors)
 - [ ] [Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed)
@@ -89,6 +99,7 @@ This is a list of things that I need to read. If there is something you think I 
 
 #### Romance
 - [ ] [Colleen Hoover - Ugly Love](https://novel12.com/254280/ugly-love.htm)
+- [ ] [Melanie Moreland - My Image of You](https://www.goodreads.com/book/show/33860257-my-image-of-you)
 - [ ] [John Green - The Fault in Our Stars](https://www.amazon.co.uk/Fault-Our-Stars-John-Green/dp/0141345659)
 
 #### Classics
