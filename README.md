@@ -123,6 +123,12 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Jon Ronson - So You've Been Publicly Shamed](https://www.goodreads.com/book/show/22571552-so-you-ve-been-publicly-shamed)
 - [x] [Yuval Noah Harari - Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
 
+### Religion
+- [ ] [Holy Bible: King James Version](https://www.goodreads.com/book/show/1923820.Holy_Bible)
+- [ ] [The Torah](https://www.goodreads.com/book/show/821535.The_Torah)
+- [ ] [Qurʾan](https://www.goodreads.com/book/show/646462.Qur_an_)
+- [ ] [Trump: The Art of the Deal](https://www.goodreads.com/book/show/1032.Trump)
+
 #### Entrepreneurship
 - [ ] [Business Model Generation](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/ref=sr_1_1?s=books&ie=UTF8&qid=1509115141&sr=1-1&keywords=business+model+generation)
 - [ ] [Pimento Map](https://www.amazon.com/Pimento-Map-Cédric-Donck/dp/2954635711/ref=sr_1_1?s=books&ie=UTF8&qid=1509115160&sr=1-1&keywords=pimento+map)
@@ -140,7 +146,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Phil Knight - Shoe Dog: A Memoir by the Creator of NIKE](https://www.goodreads.com/book/show/27220736-shoe-dog)
 
 ### Historical
-- [] [Patrick O'Brian: Master and Commander](https://www.amazon.com/Master-Commander-Aubrey-Maturin-Novels-ebook/dp/B006C3Q6GG/ref=sr_1_2?ie=UTF8&qid=1538495676&sr=8-2&keywords=master+and+commander)
+- [ ] [Patrick O'Brian: Master and Commander](https://www.amazon.com/Master-Commander-Aubrey-Maturin-Novels-ebook/dp/B006C3Q6GG/ref=sr_1_2?ie=UTF8&qid=1538495676&sr=8-2&keywords=master+and+commander)
 
 #### Papers
 ##### Computer Science
