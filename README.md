@@ -129,6 +129,8 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Sticky branding](https://www.amazon.com/Sticky-Branding-Principles-Customers-Incredible/dp/1459728106/ref=sr_1_1?s=books&ie=UTF8&qid=1509115046&sr=1-1&keywords=sticky+branding)
 - [x] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_4?s=books&ie=UTF8&qid=1509115001&sr=1-4&keywords=the+lean+startup)
 - [ ] [Value Proposition Design](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/ref=sr_1_1?s=books&ie=UTF8&qid=1509115080&sr=1-1&keywords=value+proposition+design)
+- [ ] [Clayton Christensen - The Innovator's Dilemma](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma)
+- [ ] [Clayton Christensen - The Innovator's Solution](https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution)
 
 ### Poetry
 - [ ] [Harivansha Rai Bachchan - मधुशाला](https://www.goodreads.com/book/show/792429._)
