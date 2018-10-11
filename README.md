@@ -12,6 +12,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [x] [Dan Brown - The Da Vinci Code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
 - [x] [Daniel Keyes - Flowers for Algernon](http://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 - [ ] [Douglas Adams - The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
+- [ ] [Douglas Mitchell - Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
 - [ ] [Edgar Pangborn - Davy](https://www.goodreads.com/book/show/920957.Davy)
 - [ ] [Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 - [ ] [Frank Herbert - Dune](http://www.dunenovels.com/)
