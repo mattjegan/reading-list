@@ -107,6 +107,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Scott Lynch - The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora)
 - [ ] [Sherrilyn Kenyon - Intensity](https://www.goodreads.com/book/show/22559726-intensity)
 - [ ] [Ted Dekker - Black](https://www.goodreads.com/book/show/125956.Black)
+- [ ] [Paulo Coelho - The Alchemist](https://www.goodreads.com/book/show/865.The_Alchemist)
 
 #### Romantic Comedy
 - [ ] [Jesse Petersen - Married with Zombies](https://www.goodreads.com/book/show/7716140-married-with-zombies)
