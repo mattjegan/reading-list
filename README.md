@@ -93,6 +93,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Jay Hosking - Three Years with the Rat](https://www.goodreads.com/book/show/27833835-three-years-with-the-rat)
 - [ ] [Peter Spiegelman - Dr. Knox](https://www.goodreads.com/book/show/27245867-dr-knox)
 - [ ] [Rampo Edogawa - Japanese Tales of Mystery & Imagination](https://www.goodreads.com/book/show/196150.Japanese_Tales_of_Mystery_Imagination)
+- [ ] [Kimberly Derting - The Body Finder ](https://www.goodreads.com/book/show/6261522-the-body-finder)
 
 #### Fantasy
 - [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
