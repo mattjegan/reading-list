@@ -80,6 +80,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Ray Bradbury - Fahrenheit 451](https://www.goodreads.com/book/show/4381.Fahrenheit_451)
+- [ ] [Ray Bradbury - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
 #### Mystery
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
