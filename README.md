@@ -45,6 +45,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Philip José Farmer - To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
 - [ ] [Phillip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
+- [ ] [Ray Bradbury - The Martian Chronicles](https://www.goodreads.com/book/show/76778.The_Martian_Chronicles)
 - [ ] [Robert A. Heinlein - Glory Road](https://www.goodreads.com/book/show/50856.Glory_Road)
 - [ ] [Robert A. Heinlein - Orphans of the Sky](https://www.goodreads.com/book/show/50832.Orphans_of_the_Sky)
 - [ ] [Robert A. Heinlein - Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
@@ -80,7 +81,11 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Ray Bradbury - Fahrenheit 451](https://www.goodreads.com/book/show/4381.Fahrenheit_451)
-- [ ] [Ray Bradbury - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+- [ ] [
+
+
+
+dbury - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
 #### Mystery
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
