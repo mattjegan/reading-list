@@ -81,11 +81,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Margaret Atwood - The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
 - [ ] [Octavia Butler - Lilith's Brood](https://www.goodreads.com/book/show/60926.Lilith_s_Brood)
 - [ ] [Ray Bradbury - Fahrenheit 451](https://www.goodreads.com/book/show/4381.Fahrenheit_451)
-- [ ] [
-
-
-
-dbury - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+- [ ] [Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
 #### Mystery
 - [ ] [Agatha Christie - And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
@@ -137,6 +133,9 @@ dbury - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-play
 - [ ] [J.D. Salinger - The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
 - [ ] [Marquis de Sade - The 120 days of Sodom](https://www.goodreads.com/book/show/6351885-the-120-days-of-sodom)
 - [ ] [William Golding - Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
+
+#### Crime
+- [ ] [Anthony Bourdain - Bone in the Throat](https://www.goodreads.com/book/show/111129.Bone_in_the_Throat)
 
 #### Philosophy
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
