@@ -29,6 +29,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Greg Bear - Darwin's Radio](https://www.goodreads.com/book/show/64923.Darwin_s_Radio)
 - [ ] [Greg Bear - Darwin's Children](https://www.goodreads.com/book/show/64924.Darwin_s_Children)
 - [ ] [Greg Egan - Axiomatic](https://www.goodreads.com/book/show/156783.Axiomatic)
+- [ ] [Gregory Benford - Cosm](https://www.goodreads.com/book/show/96354.Cosm)
 - [ ] [Frederik Pohl - Heechee Saga](https://www.goodreads.com/series/49899-heechee-saga)
 - [x] [H.G. Wells - The War of the Worlds]()
 - [ ] [Herbert Wells - The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man)
