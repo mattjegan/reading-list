@@ -98,6 +98,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Kimberly Derting - The Body Finder ](https://www.goodreads.com/book/show/6261522-the-body-finder)
 
 #### Fantasy
+- [ ] [Andrzej Sapkowski - The Last Wish](https://www.goodreads.com/book/show/40603587-the-last-wish)
 - [ ] [Brandon Mull - Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven)
 - [ ] [Brandon Sanderson - Mistborn](https://www.goodreads.com/book/show/68428.The_Final_Empire)
 - [ ] [George R.R. Martin - A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
