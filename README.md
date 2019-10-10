@@ -145,6 +145,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 - [ ] [Albert Camus - The Stranger](https://www.amazon.in/Stranger-ALBERT-CAMUS-Vintage-International/dp/0679720200)
 - [ ] [Joseph Murphy - The Power Of Your Subconcious Mind](https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962)
+- [ ] [Friedrich Nietzsche - Thus Spoke Zarathustra](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra)
 
 ### Non-Fiction
 - [ ] [Atul Gawande - The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
