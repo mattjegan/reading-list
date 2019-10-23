@@ -130,7 +130,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [John Green - The Fault in Our Stars](https://www.amazon.co.uk/Fault-Our-Stars-John-Green/dp/0141345659)
 
 #### Classics
-- [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland)
+- [ ] [Edwin A. Abbott - Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland) [Book @ Project Gutenberg](https://www.gutenberg.org/ebooks/201)
 - [ ] [Eiji Yoshikawa - Miyamoto Musashi](https://www.goodreads.com/book/show/102030.Musashi)
 - [ ] [Han Kang - The Vegeterian](https://www.goodreads.com/book/show/25489025-the-vegetarian)
 - [x] [Harper Lee - To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
@@ -145,7 +145,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Albert Camus - The Mith of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 - [ ] [Albert Camus - The Stranger](https://www.amazon.in/Stranger-ALBERT-CAMUS-Vintage-International/dp/0679720200)
 - [ ] [Joseph Murphy - The Power Of Your Subconcious Mind](https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962)
-- [ ] [Friedrich Nietzsche - Thus Spoke Zarathustra](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra)
+- [ ] [Friedrich Nietzsche - Thus Spoke Zarathustra](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra) [Book @ Project Gutenberg](https://www.gutenberg.org/ebooks/1998)
 
 ### Non-Fiction
 - [ ] [Atul Gawande - The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
