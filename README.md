@@ -21,7 +21,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Douglas Adams - The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [David Gerrold - The War Against the Chtorr Series](https://www.goodreads.com/series/57240-the-war-against-the-chtorr)
-- [ ] [Douglas Mitchell - Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
+- [ ] [David Mitchell - Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
 - [ ] [Edgar Pangborn - Davy](https://www.goodreads.com/book/show/920957.Davy)
 - [ ] [Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 - [ ] [Frank Herbert - Dune](https://www.goodreads.com/book/show/44767458-dune)
@@ -75,7 +75,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Walter M. Miller Jr - A Canticle for Lebowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz)
 - [ ] [Walter Tevis - Mockingbird](https://www.goodreads.com/book/show/323172.Mockingbird)
 - [ ] [Walter Tevis - Steps of the Sun](https://www.goodreads.com/book/show/323174.Steps_of_the_Sun)
-- [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
 
 
 #### Dystopian Fiction
