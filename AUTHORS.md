@@ -20,6 +20,7 @@ This list is taken from GitHub's Insights > Contributors tab on October 1st 2018
 - [jnvillar](https://github.com/jnvillar)
 - [mattjegan](https://github.com/mattjegan)
 - [mdb1](https://github.com/mdb1)
+- [meaganc](https://github.com/meaganc)
 - [nachopavon](https://github.com/nachopavon)
 - [nicholassleezt](https://github.com/nicholassleezt)
 - [nicoluce](https://github.com/nicoluce)

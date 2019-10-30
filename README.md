@@ -21,7 +21,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Douglas Adams - The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
 - [ ] [Dan Brown - Digital Fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress)
 - [ ] [David Gerrold - The War Against the Chtorr Series](https://www.goodreads.com/series/57240-the-war-against-the-chtorr)
-- [ ] [Douglas Mitchell - Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
+- [ ] [David Mitchell - Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
 - [ ] [Edgar Pangborn - Davy](https://www.goodreads.com/book/show/920957.Davy)
 - [ ] [Ernest Cline - Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 - [ ] [Frank Herbert - Dune](https://www.goodreads.com/book/show/44767458-dune)
@@ -38,6 +38,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [James Blish - Cities In Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight)
 - [ ] [Jeff VanderMeer - Annihilation](https://www.goodreads.com/book/show/17934530-annihilation)
 - [ ] [Joan D. Vinge - The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel))
+- [ ] [Kim Stanley Robinson - Icehenge](https://www.goodreads.com/book/show/41127.Icehenge)
 - [ ] [Larry Niven - Inferno](https://www.goodreads.com/book/show/100369.Inferno)
 - [ ] [Larry Niven - Ringworld](https://www.goodreads.com/book/show/61179.Ringworld)
 - [ ] [Larry Niven - The Mote in Gods Eye](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye)
@@ -45,6 +46,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Orson Scott Card - Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game)
 - [ ] [Paolo Bacigalupi - Pump Six and Other Stories](https://www.goodreads.com/book/show/2819368-pump-six-and-other-stories)
 - [ ] [Paolo Bacigalupi - The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl)
+- [ ] [Peter Watts - Blindsight](https://www.goodreads.com/book/show/6726267-blindsight)
 - [ ] [Philip José Farmer - To Your Scattered Bodies Go](https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go)
 - [ ] [Phillip K. Dick - Do Androids Dream of Electric Sheep](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - [ ] [Phillip K. Dick - The Man In The High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
@@ -53,6 +55,7 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Robert A. Heinlein - Orphans of the Sky](https://www.goodreads.com/book/show/50832.Orphans_of_the_Sky)
 - [ ] [Robert A. Heinlein - Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
 - [ ] [Robert A. Heinlein - The Moon Is A Harsh Mistress](https://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress)
+- [ ] [Robert Charles Wilson - Spin](https://www.goodreads.com/book/show/910863.Spin)
 - [ ] [Samuel R. Delany - The Einstein Intersection](https://www.goodreads.com/book/show/145354.The_Einstein_Intersection)
 - [ ] [Walter M. Miller Jr - A Canticle for Lebowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz)
 - [ ] [Robert A. Heinlein - Glory Road](https://www.goodreads.com/book/show/50856.Glory_Road)
@@ -72,7 +75,6 @@ This is a list of things that I need to read. If there is something you think I 
 - [ ] [Walter M. Miller Jr - A Canticle for Lebowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz)
 - [ ] [Walter Tevis - Mockingbird](https://www.goodreads.com/book/show/323172.Mockingbird)
 - [ ] [Walter Tevis - Steps of the Sun](https://www.goodreads.com/book/show/323174.Steps_of_the_Sun)
-- [ ] [William Gibson - Neuromancer](https://www.goodreads.com/book/show/888628.Neuromancer)
 
 
 #### Dystopian Fiction
